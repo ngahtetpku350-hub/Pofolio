@@ -374,11 +374,11 @@ export default function Home() {
             </button>
           </form>
           <div className="contact-info">
-            <a href="mailto:thuehtetnaing@gmail.com">
+            <a href="mailto:thuehtetnaing.mm@gmail.com">
               <Icon name="mail" />
-              thuehtetnaing@gmail.com
+              thuehtetnaing.mm@gmail.com
             </a>
-            <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <a href="https://github.com/ngahtetpku350-hub" target="_blank" rel="noreferrer">
               <Icon name="github" />
               github.com/thuehtet
             </a>
