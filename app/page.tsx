@@ -122,7 +122,7 @@ export default function Home() {
       <nav className="nav container">
         <a href="#home" className="brand">
           <span>TH</span>
-          <strong>THUE HTET ANING</strong>
+          <strong>THUE HTET NAING</strong>
         </a>
         <div className="navlinks">
           {[
